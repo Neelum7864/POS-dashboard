@@ -1,3 +1,3 @@
 # demo
 
-Making of point of sale dashboard!
+Making of point of sale software!
